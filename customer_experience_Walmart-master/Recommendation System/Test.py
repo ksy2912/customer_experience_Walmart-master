@@ -1,8 +1,13 @@
 from recommender import recommend_for_user
-import json
 
-results = recommend_for_user("U002", top_k=5)
+# Simple: Just recommend based on preferences + content
+print("Standard Personalized:")
+recommendations = recommend_for_user("U001")
+for r in recommendations:
+    print(f"- {r['title']} ({r['category']})")
 
-print("Recommended Products:")
-for r in results:
-    print(f"- {r['title']} ({r['brand']}) – ₹{r['price']}")
+# Advanced: Add weather/use-case tag filters
+print("\nWeather-aware (rainy):")
+weather_recommendations = recommend_for_user("U001", optional_tags=["rain", "cold", "umbrella"])
+for r in weather_recommendations:
+    print(f"- {r['title']} ({r['tags']})")

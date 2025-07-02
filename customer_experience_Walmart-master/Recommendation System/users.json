@@ -2,221 +2,221 @@
   {
     "user_id": "U001",
     "name": "Aman",
-    "viewed": ["P001", "P004", "P015"],
-    "purchased": ["P004"],
+    "viewed": ["P001", "P005", "P006"],
+    "purchased": ["P001"],
     "preferences": {
-      "categories": ["shoes", "bottomwear"],
-      "brands": ["Nike", "Levi's", "Raymond"],
-      "price_range": [1000, 2000]
+      "categories": ["apparel", "cosmetics", "home_appliance"],
+      "brands": ["Raymond", "Lakme", "Voltas"],
+      "price_range": [500, 3000]
     }
   },
   {
     "user_id": "U002",
     "name": "Sneha",
-    "viewed": ["P003", "P007", "P022"],
-    "purchased": ["P003", "P007"],
+    "viewed": ["P004", "P007", "P008"],
+    "purchased": ["P004", "P007"],
     "preferences": {
-      "categories": ["dresses", "topwear"],
-      "brands": ["Zara", "Biba", "Zivame"],
-      "price_range": [800, 1500]
+      "categories": ["apparel", "home_appliance", "grocery"],
+      "brands": ["Zara", "Usha", "Patanjali"],
+      "price_range": [800, 3500]
     }
   },
   {
     "user_id": "U003",
     "name": "Ravi",
-    "viewed": ["P005", "P006", "P023"],
-    "purchased": ["P005"],
+    "viewed": ["P002", "P009"],
+    "purchased": [],
     "preferences": {
-      "categories": ["topwear"],
-      "brands": ["H&M", "UCB"],
-      "price_range": [500, 1000]
+      "categories": ["accessories", "home_utility"],
+      "brands": ["Flipkart Essentials", "Tupperware"],
+      "price_range": [300, 1200]
     }
   },
   {
     "user_id": "U004",
     "name": "Meera",
-    "viewed": ["P012", "P027"],
-    "purchased": ["P012"],
+    "viewed": ["P005", "P010"],
+    "purchased": ["P005"],
     "preferences": {
-      "categories": ["dresses"],
-      "brands": ["FabIndia", "Anouk"],
-      "price_range": [1000, 2200]
+      "categories": ["cosmetics", "electronics"],
+      "brands": ["Lakme", "Eveready"],
+      "price_range": [200, 1500]
     }
   },
   {
     "user_id": "U005",
-    "name": "Tarun",
-    "viewed": ["P002", "P014", "P026"],
-    "purchased": ["P002"],
+    "name": "Ishaan",
+    "viewed": ["P003", "P006", "P010"],
+    "purchased": [],
     "preferences": {
-      "categories": ["bottomwear", "topwear"],
-      "brands": ["Adidas", "Nike", "Reebok"],
-      "price_range": [800, 1600]
+      "categories": ["home_appliance", "electronics"],
+      "brands": ["Bajaj", "Voltas", "Eveready"],
+      "price_range": [1000, 4000]
     }
   },
   {
     "user_id": "U006",
-    "name": "Riya",
-    "viewed": ["P017", "P028"],
-    "purchased": ["P017"],
+    "name": "Diya",
+    "viewed": ["P001", "P005"],
+    "purchased": ["P005"],
     "preferences": {
-      "categories": ["topwear", "accessories"],
-      "brands": ["ONLY", "Zara"],
-      "price_range": [1200, 2000]
+      "categories": ["cosmetics", "apparel"],
+      "brands": ["Lakme", "Raymond"],
+      "price_range": [300, 1800]
     }
   },
   {
     "user_id": "U007",
     "name": "Kabir",
-    "viewed": ["P009", "P030"],
-    "purchased": ["P030"],
+    "viewed": ["P006", "P007", "P009"],
+    "purchased": ["P009"],
     "preferences": {
-      "categories": ["shoes"],
-      "brands": ["Clarks", "Woodland"],
-      "price_range": [1800, 2600]
+      "categories": ["home_appliance", "home_utility"],
+      "brands": ["Voltas", "Usha", "Tupperware"],
+      "price_range": [500, 5000]
     }
   },
   {
     "user_id": "U008",
-    "name": "Ayesha",
-    "viewed": ["P020", "P028"],
-    "purchased": [],
+    "name": "Ritika",
+    "viewed": ["P005", "P002", "P004"],
+    "purchased": ["P004"],
     "preferences": {
-      "categories": ["cosmetics", "accessories"],
-      "brands": ["Lakme", "Zara"],
-      "price_range": [500, 2000]
+      "categories": ["apparel", "cosmetics", "accessories"],
+      "brands": ["Zara", "Lakme", "Flipkart Essentials"],
+      "price_range": [300, 2500]
     }
   },
   {
     "user_id": "U009",
-    "name": "Neeraj",
-    "viewed": ["P011", "P015"],
-    "purchased": ["P015"],
+    "name": "Yash",
+    "viewed": ["P008", "P010"],
+    "purchased": ["P010"],
     "preferences": {
-      "categories": ["topwear"],
-      "brands": ["Raymond", "Van Heusen"],
-      "price_range": [2000, 3500]
+      "categories": ["grocery", "electronics"],
+      "brands": ["Eveready", "Patanjali"],
+      "price_range": [200, 2000]
     }
   },
   {
     "user_id": "U010",
-    "name": "Ishita",
-    "viewed": ["P003", "P014", "P022"],
-    "purchased": ["P022"],
+    "name": "Kavya",
+    "viewed": ["P001", "P005", "P008"],
+    "purchased": [],
     "preferences": {
-      "categories": ["dresses", "topwear"],
-      "brands": ["Zivame", "Zara"],
-      "price_range": [700, 1400]
+      "categories": ["apparel", "grocery"],
+      "brands": ["Raymond", "Patanjali"],
+      "price_range": [300, 1500]
     }
   },
   {
     "user_id": "U011",
-    "name": "Rohan",
-    "viewed": ["P023", "P018"],
-    "purchased": ["P023"],
+    "name": "Arjun",
+    "viewed": ["P002", "P009", "P010"],
+    "purchased": [],
     "preferences": {
-      "categories": ["topwear"],
-      "brands": ["Fila", "Gap"],
-      "price_range": [600, 1500]
+      "categories": ["accessories", "home_utility", "electronics"],
+      "brands": ["Eveready", "Tupperware"],
+      "price_range": [300, 2000]
     }
   },
   {
     "user_id": "U012",
-    "name": "Diya",
-    "viewed": ["P003", "P012", "P007"],
+    "name": "Naina",
+    "viewed": ["P005", "P006"],
     "purchased": [],
     "preferences": {
-      "categories": ["dresses"],
-      "brands": ["Biba", "FabIndia"],
-      "price_range": [1000, 2100]
+      "categories": ["cosmetics", "home_appliance"],
+      "brands": ["Lakme", "Voltas"],
+      "price_range": [200, 3000]
     }
   },
   {
     "user_id": "U013",
-    "name": "Kunal",
-    "viewed": ["P006", "P008", "P013"],
-    "purchased": ["P008"],
+    "name": "Dev",
+    "viewed": ["P003", "P010"],
+    "purchased": ["P003"],
     "preferences": {
-      "categories": ["topwear", "bottomwear"],
-      "brands": ["Allen Solly", "Peter England"],
-      "price_range": [1200, 1800]
+      "categories": ["home_appliance", "electronics"],
+      "brands": ["Bajaj", "Eveready"],
+      "price_range": [1000, 3500]
     }
   },
   {
     "user_id": "U014",
-    "name": "Nikita",
-    "viewed": ["P014", "P017", "P029"],
-    "purchased": ["P014"],
+    "name": "Tanya",
+    "viewed": ["P004", "P007"],
+    "purchased": [],
     "preferences": {
-      "categories": ["topwear"],
-      "brands": ["Nike", "ONLY"],
-      "price_range": [800, 1600]
+      "categories": ["apparel", "home_appliance"],
+      "brands": ["Zara", "Usha"],
+      "price_range": [1000, 3000]
     }
   },
   {
     "user_id": "U015",
-    "name": "Aditya",
-    "viewed": ["P001", "P005", "P025"],
-    "purchased": [],
+    "name": "Ansh",
+    "viewed": ["P002", "P005"],
+    "purchased": ["P002"],
     "preferences": {
-      "categories": ["topwear", "shoes"],
-      "brands": ["Nike", "U.S. Polo"],
-      "price_range": [1000, 1800]
+      "categories": ["accessories", "cosmetics"],
+      "brands": ["Flipkart Essentials", "Lakme"],
+      "price_range": [200, 800]
     }
   },
   {
     "user_id": "U016",
-    "name": "Rashmi",
-    "viewed": ["P019", "P020", "P024"],
-    "purchased": ["P019"],
+    "name": "Shreya",
+    "viewed": ["P001", "P006"],
+    "purchased": [],
     "preferences": {
-      "categories": ["accessories", "cosmetics"],
-      "brands": ["Casio", "Lakme"],
-      "price_range": [600, 2000]
+      "categories": ["apparel", "home_appliance"],
+      "brands": ["Raymond", "Voltas"],
+      "price_range": [1000, 2500]
     }
   },
   {
     "user_id": "U017",
-    "name": "Varun",
-    "viewed": ["P002", "P016", "P026"],
-    "purchased": ["P016"],
+    "name": "Rohit",
+    "viewed": ["P003", "P007"],
+    "purchased": [],
     "preferences": {
-      "categories": ["bottomwear"],
-      "brands": ["Adidas", "Puma"],
-      "price_range": [900, 1300]
+      "categories": ["home_appliance"],
+      "brands": ["Bajaj", "Usha"],
+      "price_range": [2000, 5000]
     }
   },
   {
     "user_id": "U018",
-    "name": "Ankita",
-    "viewed": ["P003", "P027"],
-    "purchased": ["P027"],
+    "name": "Neha",
+    "viewed": ["P005", "P008"],
+    "purchased": ["P008"],
     "preferences": {
-      "categories": ["dresses"],
-      "brands": ["Zara", "Anouk"],
-      "price_range": [1000, 1600]
+      "categories": ["cosmetics", "grocery"],
+      "brands": ["Lakme", "Patanjali"],
+      "price_range": [100, 1000]
     }
   },
   {
     "user_id": "U019",
-    "name": "Nikhil",
-    "viewed": ["P011", "P021", "P030"],
-    "purchased": ["P021"],
+    "name": "Harsh",
+    "viewed": ["P002", "P009"],
+    "purchased": [],
     "preferences": {
-      "categories": ["bottomwear", "shoes"],
-      "brands": ["Allen Solly", "Clarks"],
-      "price_range": [1200, 2400]
+      "categories": ["home_utility", "accessories"],
+      "brands": ["Tupperware", "Flipkart Essentials"],
+      "price_range": [300, 1000]
     }
   },
   {
     "user_id": "U020",
-    "name": "Simran",
-    "viewed": ["P007", "P020", "P028"],
-    "purchased": ["P028"],
+    "name": "Sanya",
+    "viewed": ["P001", "P004", "P006"],
+    "purchased": ["P004"],
     "preferences": {
-      "categories": ["dresses", "accessories", "cosmetics"],
-      "brands": ["Zara", "Lakme"],
-      "price_range": [1000, 1900]
+      "categories": ["apparel", "home_appliance"],
+      "brands": ["Zara", "Voltas"],
+      "price_range": [1000, 3500]
     }
   }
 ]

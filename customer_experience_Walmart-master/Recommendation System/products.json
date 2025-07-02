@@ -1,32 +1,272 @@
 [
-  {"product_id": "P001", "title": "Nike Running Shoes", "description": "High-performance shoes for runners.", "category": "shoes", "brand": "Nike", "price": 1500, "tags": ["running", "sports", "men"], "image_url": "https://example.com/images/P001.jpg"},
-  {"product_id": "P002", "title": "Adidas Sports Shorts", "description": "Breathable shorts ideal for gym and sports.", "category": "bottomwear", "brand": "Adidas", "price": 900, "tags": ["shorts", "gym", "men"], "image_url": "https://example.com/images/P002.jpg"},
-  {"product_id": "P003", "title": "Zara Floral Dress", "description": "Chic floral summer dress.", "category": "dresses", "brand": "Zara", "price": 1200, "tags": ["floral", "summer", "women"], "image_url": "https://example.com/images/P003.jpg"},
-  {"product_id": "P004", "title": "Levi's Slim Fit Jeans", "description": "Classic denim jeans.", "category": "bottomwear", "brand": "Levi's", "price": 1800, "tags": ["jeans", "denim", "men"], "image_url": "https://example.com/images/P004.jpg"},
-  {"product_id": "P005", "title": "H&M White T-Shirt", "description": "Soft cotton t-shirt for casual wear.", "category": "topwear", "brand": "H&M", "price": 500, "tags": ["tshirt", "cotton", "unisex"], "image_url": "https://example.com/images/P005.jpg"},
-  {"product_id": "P006", "title": "UCB Polo Shirt", "description": "Stylish polo shirt.", "category": "topwear", "brand": "UCB", "price": 700, "tags": ["polo", "men", "casual"], "image_url": "https://example.com/images/P006.jpg"},
-  {"product_id": "P007", "title": "Biba Ethnic Kurti", "description": "Traditional Indian kurti.", "category": "dresses", "brand": "Biba", "price": 1100, "tags": ["ethnic", "kurti", "women"], "image_url": "https://example.com/images/P007.jpg"},
-  {"product_id": "P008", "title": "Allen Solly Formal Shirt", "description": "Perfect for business wear.", "category": "topwear", "brand": "Allen Solly", "price": 1600, "tags": ["formal", "shirt", "men"], "image_url": "https://example.com/images/P008.jpg"},
-  {"product_id": "P009", "title": "Woodland Leather Shoes", "description": "Durable leather shoes for outdoor wear.", "category": "shoes", "brand": "Woodland", "price": 2200, "tags": ["leather", "outdoor", "men"], "image_url": "https://example.com/images/P009.jpg"},
-  {"product_id": "P010", "title": "Forever 21 Mini Skirt", "description": "Trendy mini skirt for women.", "category": "bottomwear", "brand": "Forever 21", "price": 850, "tags": ["skirt", "fashion", "women"], "image_url": "https://example.com/images/P010.jpg"},
-  {"product_id": "P011", "title": "Van Heusen Blazer", "description": "Smart formal blazer for meetings.", "category": "topwear", "brand": "Van Heusen", "price": 2400, "tags": ["formal", "blazer", "men"], "image_url": "https://example.com/images/P011.jpg"},
-  {"product_id": "P012", "title": "FabIndia Cotton Saree", "description": "Elegant ethnic cotton saree.", "category": "dresses", "brand": "FabIndia", "price": 2100, "tags": ["saree", "cotton", "women"], "image_url": "https://example.com/images/P012.jpg"},
-  {"product_id": "P013", "title": "Peter England Trousers", "description": "Business formal trousers.", "category": "bottomwear", "brand": "Peter England", "price": 1300, "tags": ["formal", "trousers", "men"], "image_url": "https://example.com/images/P013.jpg"},
-  {"product_id": "P014", "title": "Nike Sports Bra", "description": "Supportive sports bra for workouts.", "category": "topwear", "brand": "Nike", "price": 950, "tags": ["sports", "gym", "women"], "image_url": "https://example.com/images/P014.jpg"},
-  {"product_id": "P015", "title": "Raymond Suit Set", "description": "Premium suit set for men.", "category": "topwear", "brand": "Raymond", "price": 3500, "tags": ["formal", "suit", "men"], "image_url": "https://example.com/images/P015.jpg"},
-  {"product_id": "P016", "title": "Puma Joggers", "description": "Casual joggers for daily wear.", "category": "bottomwear", "brand": "Puma", "price": 1000, "tags": ["joggers", "casual", "unisex"], "image_url": "https://example.com/images/P016.jpg"},
-  {"product_id": "P017", "title": "ONLY Denim Jacket", "description": "Stylish jacket for cold weather.", "category": "topwear", "brand": "ONLY", "price": 2000, "tags": ["jacket", "denim", "women"], "image_url": "https://example.com/images/P017.jpg"},
-  {"product_id": "P018", "title": "Gap Hoodie", "description": "Cozy hoodie for winters.", "category": "topwear", "brand": "Gap", "price": 1400, "tags": ["hoodie", "casual", "unisex"], "image_url": "https://example.com/images/P018.jpg"},
-  {"product_id": "P019", "title": "Casio Analog Watch", "description": "Elegant wrist watch.", "category": "accessories", "brand": "Casio", "price": 1600, "tags": ["watch", "accessory", "unisex"], "image_url": "https://example.com/images/P019.jpg"},
-  {"product_id": "P020", "title": "Lakme Lipstick Pack", "description": "Matte finish lipstick set.", "category": "cosmetics", "brand": "Lakme", "price": 700, "tags": ["makeup", "women", "cosmetic"], "image_url": "https://example.com/images/P020.jpg"},
-  {"product_id": "P021", "title": "Allen Solly Chinos", "description": "Smart casual chinos.", "category": "bottomwear", "brand": "Allen Solly", "price": 1350, "tags": ["chinos", "casual", "men"], "image_url": "https://example.com/images/P021.jpg"},
-  {"product_id": "P022", "title": "Zivame Loungewear Set", "description": "Comfortable sleepwear set.", "category": "dresses", "brand": "Zivame", "price": 950, "tags": ["loungewear", "nightwear", "women"], "image_url": "https://example.com/images/P022.jpg"},
-  {"product_id": "P023", "title": "Fila Training Tee", "description": "Sports t-shirt for men.", "category": "topwear", "brand": "Fila", "price": 600, "tags": ["sports", "training", "men"], "image_url": "https://example.com/images/P023.jpg"},
-  {"product_id": "P024", "title": "Tommy Hilfiger Backpack", "description": "Stylish branded backpack.", "category": "accessories", "brand": "Tommy Hilfiger", "price": 2200, "tags": ["bag", "travel", "unisex"], "image_url": "https://example.com/images/P024.jpg"},
-  {"product_id": "P025", "title": "U.S. Polo Hoodie", "description": "Winter hoodie for men.", "category": "topwear", "brand": "U.S. Polo", "price": 1450, "tags": ["hoodie", "winter", "men"], "image_url": "https://example.com/images/P025.jpg"},
-  {"product_id": "P026", "title": "Reebok Training Shorts", "description": "Quick-dry shorts for workouts.", "category": "bottomwear", "brand": "Reebok", "price": 950, "tags": ["gym", "sports", "men"], "image_url": "https://example.com/images/P026.jpg"},
-  {"product_id": "P027", "title": "Anouk Printed Kurta", "description": "Bright printed kurta for occasions.", "category": "dresses", "brand": "Anouk", "price": 1150, "tags": ["kurta", "ethnic", "women"], "image_url": "https://example.com/images/P027.jpg"},
-  {"product_id": "P028", "title": "Zara Leather Handbag", "description": "Premium handbag with storage.", "category": "accessories", "brand": "Zara", "price": 1900, "tags": ["bag", "leather", "women"], "image_url": "https://example.com/images/P028.jpg"},
-  {"product_id": "P029", "title": "Under Armour Tank Top", "description": "Performance tank for athletes.", "category": "topwear", "brand": "Under Armour", "price": 850, "tags": ["tank", "gym", "unisex"], "image_url": "https://example.com/images/P029.jpg"},
-  {"product_id": "P030", "title": "Clarks Formal Shoes", "description": "Elegant formal leather shoes.", "category": "shoes", "brand": "Clarks", "price": 2500, "tags": ["formal", "leather", "men"], "image_url": "https://example.com/images/P030.jpg"}
+  {
+    "product_id": "P001",
+    "title": "Raymond Cotton Shirt",
+    "description": "Breathable cotton shirt perfect for summer.",
+    "category": "apparel",
+    "brand": "Raymond",
+    "price": 1500,
+    "tags": ["summer", "hot", "lightwear"]
+  },
+  {
+    "product_id": "P002",
+    "title": "Flipkart Rain Umbrella",
+    "description": "Compact and waterproof umbrella for rainy days.",
+    "category": "accessories",
+    "brand": "Flipkart Essentials",
+    "price": 499,
+    "tags": ["rain", "monsoon", "umbrella"]
+  },
+  {
+    "product_id": "P003",
+    "title": "Bajaj Room Heater",
+    "description": "Powerful heater for cozy warmth in winters.",
+    "category": "home_appliance",
+    "brand": "Bajaj",
+    "price": 2999,
+    "tags": ["cold", "winter", "heater"]
+  },
+  {
+    "product_id": "P004",
+    "title": "Zara Women's Jacket",
+    "description": "Stylish jacket for windy and cool weather.",
+    "category": "apparel",
+    "brand": "Zara",
+    "price": 1899,
+    "tags": ["cold", "wind", "outerwear"]
+  },
+  {
+    "product_id": "P005",
+    "title": "Lakme Sun Expert SPF 50",
+    "description": "Protects from harmful UV rays during sunny days.",
+    "category": "cosmetics",
+    "brand": "Lakme",
+    "price": 299,
+    "tags": ["hot", "summer", "sun"]
+  },
+  {
+    "product_id": "P006",
+    "title": "Voltas Desert Cooler",
+    "description": "Air cooler for extremely hot climates.",
+    "category": "home_appliance",
+    "brand": "Voltas",
+    "price": 6499,
+    "tags": ["hot", "summer", "cooling"]
+  },
+  {
+    "product_id": "P007",
+    "title": "Usha Mist Fan",
+    "description": "Portable mist fan ideal for humid conditions.",
+    "category": "home_appliance",
+    "brand": "Usha",
+    "price": 4299,
+    "tags": ["humid", "summer", "fan"]
+  },
+  {
+    "product_id": "P008",
+    "title": "Patanjali Herbal Tea",
+    "description": "Warming herbal tea for cold winter evenings.",
+    "category": "grocery",
+    "brand": "Patanjali",
+    "price": 199,
+    "tags": ["cold", "winter", "tea"]
+  },
+  {
+    "product_id": "P009",
+    "title": "Tupperware Water Bottle",
+    "description": "Insulated water bottle for all seasons.",
+    "category": "home_utility",
+    "brand": "Tupperware",
+    "price": 799,
+    "tags": ["general", "hydration"]
+  },
+  {
+    "product_id": "P010",
+    "title": "Eveready Emergency Light",
+    "description": "Bright and portable emergency light for power cuts.",
+    "category": "electronics",
+    "brand": "Eveready",
+    "price": 1399,
+    "tags": ["storm", "emergency", "backup"]
+  },
+  {
+    "product_id": "P011",
+    "title": "Himalaya Moisturizing Lotion",
+    "description": "Skin hydration for dry and cold conditions.",
+    "category": "cosmetics",
+    "brand": "Himalaya",
+    "price": 229,
+    "tags": ["cold", "winter", "dry skin"]
+  },
+  {
+    "product_id": "P012",
+    "title": "Philips LED Bulb Pack",
+    "description": "Energy-saving LED bulbs for home use.",
+    "category": "electronics",
+    "brand": "Philips",
+    "price": 399,
+    "tags": ["general", "utility"]
+  },
+  {
+    "product_id": "P013",
+    "title": "Nestle Iced Coffee",
+    "description": "Chilled ready-to-drink coffee, perfect for summer.",
+    "category": "grocery",
+    "brand": "Nestle",
+    "price": 99,
+    "tags": ["summer", "cold", "refreshing"]
+  },
+  {
+    "product_id": "P014",
+    "title": "Samsung Power Bank 10000mAh",
+    "description": "Portable power backup during travel and outages.",
+    "category": "electronics",
+    "brand": "Samsung",
+    "price": 1599,
+    "tags": ["storm", "travel", "backup"]
+  },
+  {
+    "product_id": "P015",
+    "title": "Dettol Antiseptic Liquid",
+    "description": "Essential disinfectant for first aid and hygiene.",
+    "category": "healthcare",
+    "brand": "Dettol",
+    "price": 179,
+    "tags": ["hygiene", "monsoon", "first aid"]
+  },
+  {
+    "product_id": "P016",
+    "title": "Nike Running Shoes",
+    "description": "Breathable and lightweight shoes for summer workouts.",
+    "category": "apparel",
+    "brand": "Nike",
+    "price": 2999,
+    "tags": ["summer", "fitness", "hot"]
+  },
+  {
+    "product_id": "P017",
+    "title": "Syska Rechargeable Torch",
+    "description": "High-power torch for power cuts and outdoor use.",
+    "category": "electronics",
+    "brand": "Syska",
+    "price": 899,
+    "tags": ["storm", "emergency", "outdoor"]
+  },
+  {
+    "product_id": "P018",
+    "title": "L'Oréal Night Cream",
+    "description": "Deep moisturizing cream for cold nights.",
+    "category": "cosmetics",
+    "brand": "L'Oréal",
+    "price": 699,
+    "tags": ["cold", "night", "winter"]
+  },
+  {
+    "product_id": "P019",
+    "title": "Fortune Sunflower Oil",
+    "description": "Healthy cooking oil suitable for all weather.",
+    "category": "grocery",
+    "brand": "Fortune",
+    "price": 135,
+    "tags": ["general", "kitchen"]
+  },
+  {
+    "product_id": "P020",
+    "title": "Havells Electric Kettle",
+    "description": "Quick boiling kettle for tea, coffee and winter use.",
+    "category": "home_appliance",
+    "brand": "Havells",
+    "price": 1399,
+    "tags": ["cold", "winter", "beverages"]
+  },
+  {
+    "product_id": "P021",
+    "title": "Milton Lunch Box Set",
+    "description": "Insulated tiffin set to keep food warm or cold.",
+    "category": "home_utility",
+    "brand": "Milton",
+    "price": 1199,
+    "tags": ["utility", "office", "school"]
+  },
+  {
+    "product_id": "P022",
+    "title": "Kellogg's Muesli Fruit & Nut",
+    "description": "Healthy breakfast for an energetic morning.",
+    "category": "grocery",
+    "brand": "Kellogg's",
+    "price": 349,
+    "tags": ["general", "breakfast", "nutrition"]
+  },
+  {
+    "product_id": "P023",
+    "title": "Prestige Induction Cooktop",
+    "description": "Energy-efficient and portable cooking appliance.",
+    "category": "home_appliance",
+    "brand": "Prestige",
+    "price": 2599,
+    "tags": ["kitchen", "utility", "indoor"]
+  },
+  {
+    "product_id": "P024",
+    "title": "Lifebuoy Hand Wash",
+    "description": "Kills 99.9% germs, suitable for monsoon season.",
+    "category": "healthcare",
+    "brand": "Lifebuoy",
+    "price": 119,
+    "tags": ["monsoon", "hygiene", "germs"]
+  },
+  {
+    "product_id": "P025",
+    "title": "Fastrack Polarized Sunglasses",
+    "description": "Protective eyewear for bright sunny days.",
+    "category": "accessories",
+    "brand": "Fastrack",
+    "price": 1499,
+    "tags": ["sun", "hot", "summer"]
+  },
+  {
+    "product_id": "P026",
+    "title": "BoAt Bluetooth Earbuds",
+    "description": "Wireless earbuds for calls, music, and travel.",
+    "category": "electronics",
+    "brand": "boAt",
+    "price": 1799,
+    "tags": ["general", "entertainment", "portable"]
+  },
+  {
+    "product_id": "P027",
+    "title": "Godrej Dehumidifier Pouch",
+    "description": "Protects items from moisture during humid weather.",
+    "category": "home_utility",
+    "brand": "Godrej",
+    "price": 229,
+    "tags": ["humid", "storage", "monsoon"]
+  },
+  {
+    "product_id": "P028",
+    "title": "Lenskart Anti-Fog Glass Cleaner",
+    "description": "Keeps glasses clear during rainy and humid days.",
+    "category": "accessories",
+    "brand": "Lenskart",
+    "price": 299,
+    "tags": ["rain", "humid", "glasses"]
+  },
+  {
+    "product_id": "P029",
+    "title": "Zivame Cotton Nightwear",
+    "description": "Comfortable nightwear for hot and humid nights.",
+    "category": "apparel",
+    "brand": "Zivame",
+    "price": 899,
+    "tags": ["summer", "night", "hot"]
+  },
+  {
+    "product_id": "P030",
+    "title": "Tata Sampann Chilli Powder",
+    "description": "Pure red chilli powder to spice up meals.",
+    "category": "grocery",
+    "brand": "Tata",
+    "price": 89,
+    "tags": ["kitchen", "general", "pantry"]
+  }
 ]
