@@ -1,0 +1,222 @@
+[
+  {
+    "user_id": "U001",
+    "name": "Aman",
+    "viewed": ["P001", "P004", "P015"],
+    "purchased": ["P004"],
+    "preferences": {
+      "categories": ["shoes", "bottomwear"],
+      "brands": ["Nike", "Levi's", "Raymond"],
+      "price_range": [1000, 2000]
+    }
+  },
+  {
+    "user_id": "U002",
+    "name": "Sneha",
+    "viewed": ["P003", "P007", "P022"],
+    "purchased": ["P003", "P007"],
+    "preferences": {
+      "categories": ["dresses", "topwear"],
+      "brands": ["Zara", "Biba", "Zivame"],
+      "price_range": [800, 1500]
+    }
+  },
+  {
+    "user_id": "U003",
+    "name": "Ravi",
+    "viewed": ["P005", "P006", "P023"],
+    "purchased": ["P005"],
+    "preferences": {
+      "categories": ["topwear"],
+      "brands": ["H&M", "UCB"],
+      "price_range": [500, 1000]
+    }
+  },
+  {
+    "user_id": "U004",
+    "name": "Meera",
+    "viewed": ["P012", "P027"],
+    "purchased": ["P012"],
+    "preferences": {
+      "categories": ["dresses"],
+      "brands": ["FabIndia", "Anouk"],
+      "price_range": [1000, 2200]
+    }
+  },
+  {
+    "user_id": "U005",
+    "name": "Tarun",
+    "viewed": ["P002", "P014", "P026"],
+    "purchased": ["P002"],
+    "preferences": {
+      "categories": ["bottomwear", "topwear"],
+      "brands": ["Adidas", "Nike", "Reebok"],
+      "price_range": [800, 1600]
+    }
+  },
+  {
+    "user_id": "U006",
+    "name": "Riya",
+    "viewed": ["P017", "P028"],
+    "purchased": ["P017"],
+    "preferences": {
+      "categories": ["topwear", "accessories"],
+      "brands": ["ONLY", "Zara"],
+      "price_range": [1200, 2000]
+    }
+  },
+  {
+    "user_id": "U007",
+    "name": "Kabir",
+    "viewed": ["P009", "P030"],
+    "purchased": ["P030"],
+    "preferences": {
+      "categories": ["shoes"],
+      "brands": ["Clarks", "Woodland"],
+      "price_range": [1800, 2600]
+    }
+  },
+  {
+    "user_id": "U008",
+    "name": "Ayesha",
+    "viewed": ["P020", "P028"],
+    "purchased": [],
+    "preferences": {
+      "categories": ["cosmetics", "accessories"],
+      "brands": ["Lakme", "Zara"],
+      "price_range": [500, 2000]
+    }
+  },
+  {
+    "user_id": "U009",
+    "name": "Neeraj",
+    "viewed": ["P011", "P015"],
+    "purchased": ["P015"],
+    "preferences": {
+      "categories": ["topwear"],
+      "brands": ["Raymond", "Van Heusen"],
+      "price_range": [2000, 3500]
+    }
+  },
+  {
+    "user_id": "U010",
+    "name": "Ishita",
+    "viewed": ["P003", "P014", "P022"],
+    "purchased": ["P022"],
+    "preferences": {
+      "categories": ["dresses", "topwear"],
+      "brands": ["Zivame", "Zara"],
+      "price_range": [700, 1400]
+    }
+  },
+  {
+    "user_id": "U011",
+    "name": "Rohan",
+    "viewed": ["P023", "P018"],
+    "purchased": ["P023"],
+    "preferences": {
+      "categories": ["topwear"],
+      "brands": ["Fila", "Gap"],
+      "price_range": [600, 1500]
+    }
+  },
+  {
+    "user_id": "U012",
+    "name": "Diya",
+    "viewed": ["P003", "P012", "P007"],
+    "purchased": [],
+    "preferences": {
+      "categories": ["dresses"],
+      "brands": ["Biba", "FabIndia"],
+      "price_range": [1000, 2100]
+    }
+  },
+  {
+    "user_id": "U013",
+    "name": "Kunal",
+    "viewed": ["P006", "P008", "P013"],
+    "purchased": ["P008"],
+    "preferences": {
+      "categories": ["topwear", "bottomwear"],
+      "brands": ["Allen Solly", "Peter England"],
+      "price_range": [1200, 1800]
+    }
+  },
+  {
+    "user_id": "U014",
+    "name": "Nikita",
+    "viewed": ["P014", "P017", "P029"],
+    "purchased": ["P014"],
+    "preferences": {
+      "categories": ["topwear"],
+      "brands": ["Nike", "ONLY"],
+      "price_range": [800, 1600]
+    }
+  },
+  {
+    "user_id": "U015",
+    "name": "Aditya",
+    "viewed": ["P001", "P005", "P025"],
+    "purchased": [],
+    "preferences": {
+      "categories": ["topwear", "shoes"],
+      "brands": ["Nike", "U.S. Polo"],
+      "price_range": [1000, 1800]
+    }
+  },
+  {
+    "user_id": "U016",
+    "name": "Rashmi",
+    "viewed": ["P019", "P020", "P024"],
+    "purchased": ["P019"],
+    "preferences": {
+      "categories": ["accessories", "cosmetics"],
+      "brands": ["Casio", "Lakme"],
+      "price_range": [600, 2000]
+    }
+  },
+  {
+    "user_id": "U017",
+    "name": "Varun",
+    "viewed": ["P002", "P016", "P026"],
+    "purchased": ["P016"],
+    "preferences": {
+      "categories": ["bottomwear"],
+      "brands": ["Adidas", "Puma"],
+      "price_range": [900, 1300]
+    }
+  },
+  {
+    "user_id": "U018",
+    "name": "Ankita",
+    "viewed": ["P003", "P027"],
+    "purchased": ["P027"],
+    "preferences": {
+      "categories": ["dresses"],
+      "brands": ["Zara", "Anouk"],
+      "price_range": [1000, 1600]
+    }
+  },
+  {
+    "user_id": "U019",
+    "name": "Nikhil",
+    "viewed": ["P011", "P021", "P030"],
+    "purchased": ["P021"],
+    "preferences": {
+      "categories": ["bottomwear", "shoes"],
+      "brands": ["Allen Solly", "Clarks"],
+      "price_range": [1200, 2400]
+    }
+  },
+  {
+    "user_id": "U020",
+    "name": "Simran",
+    "viewed": ["P007", "P020", "P028"],
+    "purchased": ["P028"],
+    "preferences": {
+      "categories": ["dresses", "accessories", "cosmetics"],
+      "brands": ["Zara", "Lakme"],
+      "price_range": [1000, 1900]
+    }
+  }
+]
